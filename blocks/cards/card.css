@@ -3,8 +3,7 @@
 @import url("/blocks/cards/__title/__title.css");
 @import url("/blocks/cards/__description/__description.css");
 
-.cards{
-
+.cards {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -12,5 +11,4 @@
     margin: auto;
     list-style-type: none;
     padding: 0;
-    
-    }
+}

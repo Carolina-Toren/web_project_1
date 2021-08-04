@@ -7,16 +7,9 @@
 @import url("/blocks/khan/__book-container/__book-container.css");
 @import url("/blocks/khan/__book-pic/__book-pic.css");
 @import url("/blocks/khan/__buy-link/__buy-link.css");
-.khan{
-  
+
+.khan {
     margin-top: 100px;
-    background-color: #F2F2F2 ;
+    background-color: #f2f2f2;
     padding-top: 105px;
-
-  
-  }
-
-
-  
-
-  
+}

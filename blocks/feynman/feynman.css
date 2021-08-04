@@ -2,7 +2,6 @@
 @import url("/blocks/feynman/__subtitle/__subtitle.css");
 @import url("/blocks/feynman/__link/__link.css");
 
-
 .feynman {
     display: flex;
     padding-top: 80px;
@@ -16,4 +15,4 @@
     background-color: #f2f2f2;
     margin: 0;
     position: relative;
-  }
+}
