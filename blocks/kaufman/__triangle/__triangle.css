@@ -1,7 +1,7 @@
-@import url("/blocks/rotation/rotation.css");
+@import url("../../rotation/rotation.css");
 
 .kaufman__triangle {
-    background-image: url("/images/kaufman-triangle.svg");
+    background-image: url("../../../images/kaufman-triangle.svg");
     width: 660px;
     height: 636px;
     position: absolute;

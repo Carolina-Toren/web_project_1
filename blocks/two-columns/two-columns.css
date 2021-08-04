@@ -1,7 +1,7 @@
-@import url("/blocks/two-columns/__brief/__brief.css");
-@import url("/blocks/two-columns/__span-accent/__span-accent.css");
-@import url("/blocks/two-columns/__main-text/__main-text.css");
-@import url("/blocks/two-columns/__paragraph/__paragraph.css");
+@import url("./__brief/__brief.css");
+@import url("./__span-accent/__span-accent.css");
+@import url("./__main-text/__main-text.css");
+@import url("./__paragraph/__paragraph.css");
 
 
 .two-columns {
