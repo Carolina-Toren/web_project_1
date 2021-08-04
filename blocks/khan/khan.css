@@ -1,0 +1,22 @@
+@import url("/blocks/khan/__author/__author.css");
+@import url("/blocks/khan/__container/__container.css");
+@import url("/blocks/khan/__title/__title.css");
+@import url("/blocks/khan/__quote/__quote.css");
+@import url("/blocks/khan/__quote-author/__quote-author.css");
+@import url("/blocks/khan/__quote-auther-subline/__quote-auther-subline.css");
+@import url("/blocks/khan/__book-container/__book-container.css");
+@import url("/blocks/khan/__book-pic/__book-pic.css");
+@import url("/blocks/khan/__buy-link/__buy-link.css");
+.khan{
+  
+    margin-top: 100px;
+    background-color: #F2F2F2 ;
+    padding-top: 105px;
+
+  
+  }
+
+
+  
+
+  

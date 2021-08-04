@@ -1,0 +1,19 @@
+@import url("/blocks/footer/__columns/__columns.css");
+@import url("/blocks/footer/__culomn/__culomn.css");
+@import url("/blocks/footer/__author/__author.css");
+@import url("/blocks/footer/__column-heading/__column-heading.css");
+@import url("/blocks/footer/__list/__list.css");
+@import url("/blocks/footer/__column-link/__column-link.css");
+@import url("/blocks/footer/__social-icons/__social-icons.css");
+@import url("/blocks/logo/logo.css");
+@import url("/blocks/logo/_place_footer/_place_footer.css");
+.footer {
+    background-color: #1f1f1f;
+    padding-top: 60px;
+    min-height: 350px;
+    box-sizing: border-box;
+    color: white;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+  }
