@@ -1,7 +1,0 @@
-@import url("./_content/__column_content_copyright.css");
-@import url("./_content/__column_content_social.css");
-
-.footer__column {
-    display: flex;
-    flex-direction: column;
-}
