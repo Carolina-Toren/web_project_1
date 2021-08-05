@@ -12,5 +12,5 @@
     bottom: 30px;
     display: flex;
     transform: rotate(-15deg);
-    animation: rotation linear 20s infinite;
+    
 }
